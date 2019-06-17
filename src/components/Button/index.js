@@ -2,9 +2,9 @@ import styled from 'styled-components';
 import Link from 'gatsby-link';
 
 const Button = styled(Link)`
-  border: 1px solid #bfc8d2;
+  border: 1px solid #FF8C00;
   border-radius: 25px;
-  color: #3e465b;
+  color: #FF8C00;
   display: inline-block;
   font-size: 10px;
   font-weight: 700;
@@ -14,8 +14,7 @@ const Button = styled(Link)`
   text-transform: uppercase;
 
   &:hover {
-    border-color: #000;
+    border-color: #FFA500;
   }
 `;
-
 export default Button;
