@@ -1,62 +1,53 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: Welcome to the OnTheGears Development Blog!
+date: "2019-06-27"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Welcome to the OnTheGears Development Blog! This dev blog will be used to communicate with users about updates and technical challenges. 
+
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+I have been building [OnTheGears](https://onthegears.com) for a couple months now and I am ready to put this proof of concept into action. The initial idea is a platform where mouse enthusiasts can share and collect (keep track of) their gear. However, that idea has expanded to mouse modifications and possibly other gear in the future. I will talk about the roadmap for this project in a bit, but first I want to talk about the current features OnTheGears has to offer.
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+# Features
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+### The Dashboard
+![Dashboard](https://i.imgur.com/5BMSJpV.gif) 
+Upon visiting the frontpage you are probably thinking that this is just a simple message board. While simple in its current state, it has been tailored to display information about mice and help users understand the ecosystem around the hardware. You can inspect the projects to see what specific model of mice are in the image and any type of modifications made.
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+### Posting
+![Post](https://i.imgur.com/zzQkAJ1.gif)
+A user can post a project containing multiple images of mice and then find said mice in our catalogue. From there you can add predefined tags that describe mods applicable to your mice. These tags are meant to be more general and extra details about the change will be in the description.
 
-### Pellentesque consectetur facilisis venenatis
+### Mice Index
+![Gear](https://i.imgur.com/nFKyw19.gif)
 
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+The gear page contains a table of all mice in the catalogue. You can search the table for your mouse and use the button in the model column to be directed a page containing a more nicely formatted spec sheet. Along with the better format is the ability to add the mouse to your collection. This will save the mouse to your profile and to display it for all users.
 
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
+### Profile
+![Profile](https://i.imgur.com/wcik3rs.gif)
+The profile page is where you can find a record of all your collected gear and projects. This is the simplest page at the moment, but I have many improvements I want to make including a teased follow functionality.
+ 
+And that is basically the gist of OnTheGears. As I hope you can see all these features are interconnected in some way. Now to discuss the future plans of OnTheGears!
 
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+# Roadmap
 
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
+ These are my planned improvements for OnTheGears in no particular order:
 
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
+* Rich Text Editor
+* compare two mice
+* add following and follower
+* notifications for users
+* link social media sites on profile page
+* add icons to mouse list Brands
+* add recent activity panel like when someone adds piece of gears to collection
+* Search Functionality
+* add higher comment depth
+* Mousepad support
+* Keyboard Support
 
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
+That is all I have to write for now. If you have read this far it means you have real interest in this project and I appreciate that. Thank you and stay tuned for further improvements to OnTheGears.
 
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
-
-#### Sed ac orci a dolor venenatis vulputate
-
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
-
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
-
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
-
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+-- _naethan_
